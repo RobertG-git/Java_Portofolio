@@ -1,4 +1,4 @@
-package src.P1_SistemGestiuneInscrieri;
+package src.C29_Lucrul_cu_exceptii.Ex1;
 
 import java.util.Scanner;
 
