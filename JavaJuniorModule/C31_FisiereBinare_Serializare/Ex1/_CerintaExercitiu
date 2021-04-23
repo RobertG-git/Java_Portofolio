@@ -1,0 +1,13 @@
+Aminteste-ti urmatoarele aplicatii implementate anterior in curs:
+
+[P1] Sistem de gestiune inscrieri
+Car rental system - implementat in execitiile 1 si 2
+Ambele aplicatii au un mare neajuns: la inchiderea aplicatiei se pierd toate datele introduse anterior.
+Realizeaza un upgrade celor 2 aplicatii anterioare astfel incat acestea sa nu piarda datele introduse la parasirea programului.
+
+Este alegerea ta ce abordare alegi: cum denumesti fisierele, cate fisiere se salveaza pe disk, ordinea de restore etc.
+Insa, aplicatiile trebuie sa functioneze corect si sa nu se observe nicio diferenta de rulare sau de date stocate, la repornire.
+
+Bonus
+Adauga celor 2 aplicatii actiunea reset care realizeaza stergerea completa a tuturor datelor stocate.
+Aceast feature este util mai ales atunci cand se doreste resetarea completa a aplicatiei, pentru a o lua de la 0.
